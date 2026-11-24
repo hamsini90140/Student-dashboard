@@ -1,4 +1,6 @@
 # Student Dashboard 📚✨
+name-INDHU HAMSINI ,rool no. - N26V01A0148,SECTION 2
+DEPLOY LINK- https://lighthearted-gaufre-f95c02.netlify.app/ 
 
 A modern, user-friendly web application designed to help students organize their academic life, track assignments, and manage daily schedules efficiently.
 
